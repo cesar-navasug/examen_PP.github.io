@@ -1,0 +1,23 @@
+body { 
+    background-color: #C795E3;
+}
+.flex-container{
+    border: 1px solid black; 
+    background: #ffffff;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.caja {
+    border: 1px solid #000000;
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    margin: 3px;
+}
